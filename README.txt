@@ -24,9 +24,12 @@
 \f0 \'b1\'ea\'c7\'e3\'ba\'ea
 \f2  
 \f0 \'be\'c6\'c0\'cc\'b5\'f0
+
 \f2 ]\
 git config \cf4 \strokec4 --\cf2 \strokec2 global user.email [
 \f0 \'c0\'cc\'b8\'de\'c0\'cf
 \f2  
 \f0 \'c1\'d6\'bc\'d2
 \f2 ]}
+
+먼가 수정
